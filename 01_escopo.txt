@@ -1,0 +1,66 @@
+# PROJETO PRJ-0001 — QSOFTWARE LANDING PAGE
+
+## 1. Identificação
+Empresa: Qsoftware
+Projeto: Landing Page Institucional
+Código: PRJ-0001
+Tipo: Projeto de portfólio
+Status: Planejamento
+
+## 2. Objetivo
+Desenvolver uma landing page profissional para apresentar os serviços da Qsoftware, fortalecer sua presença digital e gerar oportunidades comerciais com clientes nacionais e internacionais.
+
+## 3. Público-alvo
+- Pequenas e médias empresas.
+- Empreendedores.
+- Empresas que precisam de sistemas web, APIs e integrações.
+- Clientes internacionais que contratam desenvolvimento de software.
+
+## 4. Escopo funcional
+A página deverá conter:
+1. Cabeçalho com logotipo e navegação.
+2. Seção principal (Hero) com proposta de valor e chamadas para ação.
+3. Apresentação dos serviços.
+4. Etapas do processo de desenvolvimento.
+5. Diferenciais da Qsoftware.
+6. Formulário para contato e solicitação de orçamento.
+7. Rodapé com informações institucionais e links relevantes.
+
+## 5. Diretrizes visuais
+- Design moderno e profissional.
+- Interface responsiva.
+- Hierarquia visual consistente.
+- Tipografia legível.
+- Cores e componentes consistentes.
+- Interações claras e acessíveis.
+
+## 6. Diretrizes técnicas
+- HTML5 semântico.
+- CSS3.
+- JavaScript.
+- Bootstrap 5.
+- Git e GitHub para versionamento.
+- Integração com serviço ou API para envio real do formulário, definida em etapa posterior.
+
+## 7. Fora do escopo inicial
+- Autenticação de usuários.
+- Painel administrativo.
+- Banco de dados próprio.
+- Sistema de gestão de clientes.
+- Aplicativo mobile.
+- Múltiplas páginas institucionais.
+
+## 8. Critério geral de sucesso
+Entregar uma landing page publicada, responsiva, acessível, funcional, documentada e versionada no GitHub, demonstrando boas práticas de desenvolvimento e decisões técnicas justificáveis.
+
+## 9. Estratégia de execução
+O desenvolvimento será realizado por etapas:
+1. Planejamento.
+2. Definição do wireframe e da interface.
+3. Implementação frontend.
+4. Integração do formulário.
+5. Testes e revisão.
+6. Publicação e documentação do portfólio.
+
+## 10. Condição de aprovação
+O projeto será considerado concluído após a validação dos requisitos, execução dos testes, correção dos problemas relevantes e publicação da versão final.

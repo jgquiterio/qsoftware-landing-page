@@ -1,0 +1,64 @@
+# REQUISITOS — PRJ-0001 QSOFTWARE LANDING PAGE
+
+## 1. Requisitos Funcionais
+
+RF01 — Navegação
+O sistema deve permitir navegar entre as seções da página por meio de links funcionais.
+
+RF02 — Menu responsivo
+O menu deve adaptar-se a dispositivos móveis e permitir abrir e fechar a navegação.
+
+RF03 — Seção principal
+A página deve apresentar uma proposta de valor clara, uma descrição dos serviços e chamadas para ação.
+
+RF04 — Serviços
+A página deve apresentar três serviços: Web Development, API Development & Integration e Business Platforms & Automation.
+
+RF05 — Processo de trabalho
+A página deve apresentar quatro etapas: Discovery, Planning, Development e Delivery.
+
+RF06 — Diferenciais
+A página deve apresentar os diferenciais técnicos e comerciais da Qsoftware sem utilizar informações fictícias sobre clientes ou resultados.
+
+RF07 — Formulário de contato
+O formulário deve possuir os campos:
+- Nome: obrigatório.
+- E-mail: obrigatório.
+- Tipo de projeto: seleção de opções.
+- Orçamento estimado: opcional.
+- Descrição do projeto: obrigatória.
+
+RF08 — Validação
+O sistema deve validar os campos obrigatórios e o formato do e-mail, apresentando mensagens claras para o usuário.
+
+RF09 — Envio do formulário
+O formulário deve enviar os dados para um serviço ou endpoint real e apresentar o resultado correspondente ao retorno do serviço.
+
+RF10 — Prevenção de duplicidade
+O botão de envio deve impedir submissões repetidas enquanto uma solicitação estiver sendo processada.
+
+RF11 — Tratamento de erros
+Em caso de falha no envio, o sistema deve informar o usuário e permitir uma nova tentativa.
+
+RF12 — Rodapé
+O rodapé deve conter links funcionais e informações institucionais pertinentes.
+
+## 2. Requisitos Não Funcionais
+
+RNF01 — Responsividade
+A interface deve funcionar em celulares, tablets e desktops, sem rolagem horizontal indevida.
+
+RNF02 — Acessibilidade
+A página deve oferecer navegação por teclado, foco visível, labels nos campos e contraste adequado.
+
+RNF03 — Performance
+As imagens e os recursos devem ser otimizados para reduzir o tempo de carregamento.
+
+RNF04 — SEO
+A página deve utilizar título, meta description, estrutura semântica e hierarquia adequada de cabeçalhos.
+
+RNF05 — Compatibilidade
+A página deve ser testada nos principais navegadores modernos.
+
+RNF06 — Manutenibilidade
+O código deve ter nomes consistentes, responsabilidades claras e estrutura

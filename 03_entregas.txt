@@ -1,0 +1,66 @@
+# ENTREGAS — PRJ-0001 QSOFTWARE LANDING PAGE
+
+## 1. Documentação
+- Escopo do projeto.
+- Requisitos funcionais e não funcionais.
+- Critérios de aceitação.
+- Registro das decisões técnicas relevantes.
+
+## 2. Interface e experiência do usuário
+- Wireframe aprovado.
+- Identidade visual consistente.
+- Layout responsivo para desktop, tablet e mobile.
+- Navegação funcional entre as seções.
+- Estados visuais de interação e feedback.
+
+## 3. Implementação frontend
+- Estrutura HTML semântica.
+- Estilos CSS organizados.
+- Utilização de Bootstrap 5.
+- Interações implementadas com JavaScript.
+- Componentes visuais consistentes e reutilizáveis quando necessário.
+
+## 4. Formulário de contato
+- Campos definidos no escopo.
+- Validação dos dados.
+- Integração com serviço ou endpoint real.
+- Estados de carregamento, sucesso e erro.
+- Prevenção de submissões duplicadas.
+- Tratamento seguro dos dados recebidos.
+
+## 5. Qualidade e testes
+- Testes de navegação.
+- Testes de responsividade.
+- Testes de validação do formulário.
+- Testes de envio e tratamento de erros.
+- Verificação de acessibilidade.
+- Avaliação de SEO e performance.
+- Correção dos problemas relevantes identificados.
+
+## 6. Versionamento e gestão
+- Repositório GitHub.
+- Histórico de commits organizado.
+- Tarefas registradas no GitHub Projects.
+- Branches e pull requests quando aplicáveis.
+- Registro das decisões técnicas relevantes.
+
+## 7. Publicação
+- Landing page publicada.
+- URL de acesso validada.
+- Verificação do funcionamento em ambiente publicado.
+- Capturas de tela para apresentação do portfólio.
+
+## 8. Documentação final
+- README em inglês.
+- Descrição do projeto e seus objetivos.
+- Tecnologias utilizadas.
+- Instruções de instalação e execução.
+- Instruções para testes.
+- Link da versão publicada.
+- Principais decisões técnicas e limitações conhecidas.
+
+## 9. Condição de conclusão
+As entregas serão consideradas concluídas após a verificação dos critérios de aceitação, correção dos problemas relevantes, publicação e documentação final do projeto.
+
+## 10. Status atual
+Planejamento documental em andamento.
