@@ -1,5 +1,9 @@
 # Qsoftware Landing Page
 
+**Live Demo:** https://jgquiterio.github.io/qsoftware-landing-page/
+
+**Repository:** https://github.com/jgquiterio/qsoftware-landing-page
+
 ## Overview
 
 A professional landing page for Qsoftware, designed to present software development services and attract international clients.
